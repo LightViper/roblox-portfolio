@@ -13,21 +13,21 @@ My timezone is UTC+10 and I live in Queensland, Australia.
 
 Knowledge:
 
-I'm familiar with these computer languages:
+  I'm familiar with these computer languages:
 
--Python
+  -Python
 
--C++
+  -C++
 
--C#
+  -C#
 
--Lua/LuaU
+  -Lua/LuaU
 
--HTML/CSS/JS
+  -HTML/CSS/JS
 
--some X86ASM
+  -some X86ASM
 
--GDScript.
+  -GDScript.
 
 I'm familiar with many programming concepts, such as 
 OOP->Abstraction ->Encapsulation ->Inheritance ->Polymorphism ->Composition,
