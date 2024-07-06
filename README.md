@@ -29,16 +29,34 @@ Knowledge:
 
   -GDScript.
 
-I'm familiar with many programming concepts, such as 
-OOP->Abstraction ->Encapsulation ->Inheritance ->Polymorphism ->Composition,
-Functional programming, etc.
---
+
+
+
+  
+  =======
+  
+  =======
+
+  I'm familiar with many programming concepts, such as
+
+  OOP->Abstraction ->Encapsulation ->Inheritance ->Polymorphism ->Composition,
+
+  Functional programming, etc.
+  
+====
+
 I'm currently learning reverse engineering with IDA Pro, OllyDBG, x64/32dbg, and other reverse engineering tools. 
---
+
+====
+
 I usually program using the OOP programming paradigm, with composition over inheritance.
+
 Due to my experience with reverse engineering and low level languages, such as C++ and X86ASM. I know how computers work, and therefore how to write optimised code.
-----------
-----------
+
+=======
+
+=======
+
 Other knowledge: -> I don't do any commissions for these, and I'm not an expert in any of these fields.
 I also know how to use blender to model, animate, and rig models.
 I also know aspects of game design.
