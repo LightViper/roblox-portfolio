@@ -15,12 +15,18 @@ Knowledge:
 
 I'm familiar with these computer languages:
 
--Python 
+-Python
+
 -C++
+
 -C#
--Lua/LuaU-
-HTML/CSS/JS-
-some X86ASM
+
+-Lua/LuaU
+
+-HTML/CSS/JS
+
+-some X86ASM
+
 -GDScript.
 
 I'm familiar with many programming concepts, such as 
