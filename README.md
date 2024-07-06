@@ -2,8 +2,8 @@
 
 
 ## Basic Info:
-I've been scripting on roblox ever since Covid hit back in early 2020.
-I got my start doing commissions for developers and making scripting projects.
+I've been scripting on roblox ever since Covid started back in early 2020, I learned by doing commissions for developers and making scripting projects.
+
 My timezone is UTC+10 and I live in Queensland, Australia.
 
 ================
