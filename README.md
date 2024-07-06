@@ -6,25 +6,18 @@ I've been scripting on roblox ever since Covid started back in early 2020, I lea
 
 My timezone is UTC+10 and I live in Queensland, Australia.
 
-================
 
-Knowledge:
+## Knowledge:
 
   I'm familiar with these computer languages:
 
-  -Python
-
-  -C++
-
-  -C#
-
-  -Lua/LuaU
-
-  -HTML/CSS/JS
-
-  -some X86ASM
-
-  -GDScript.
+  - Python
+  - C++
+  - C#
+  - Lua/LuaU
+  - HTML/CSS/JS
+  - some X86ASM
+  - GDScript.
 
 
 
