@@ -6,6 +6,8 @@ I've been scripting on roblox ever since Covid started back in early 2020, I lea
 
 My timezone is UTC+10 and I live in Queensland, Australia.
 
+I primarily use Discord to communicate, and I use my microphone.
+
 
 ## Knowledge:
 
