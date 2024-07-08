@@ -15,10 +15,8 @@ I primarily use Discord to communicate, and I use my microphone. However I'm ope
   I'm familiar with these computer languages:
 
   - Python
-  - C++
   - C#
   - Lua/LuaU
-  - HTML/CSS/JS
   - some X86ASM
   - GDScript.
 
@@ -33,6 +31,8 @@ I primarily use Discord to communicate, and I use my microphone. However I'm ope
   - Polymorphism 
   - Composition
   - Functional programming, etc.
+
+I also know Knit, and other Frameworks.
   
 ### Reverse Engineering
 
@@ -57,9 +57,6 @@ I also know aspects of game design.
 I have worked on many projects such as:
 
 ### Perlin Noise Algorithm for Procedural Generation.
-youtube link here:
-
-### Custom "ProximityPrompt" Class:
 youtube link here:
 
 ### "HoverPrompt" Class:
