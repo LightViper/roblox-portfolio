@@ -58,10 +58,10 @@ I have worked on many projects such as:
 youtube link here:
 
 ### "HoverPrompt" Class:
-youtube link here:
+https://www.youtube.com/watch?v=oW_W3c6S8EE
 
-### Custom Tool/Item Class, and Gun Subclass, also HoverPrompt Class:
-Youtube link here:
+### Custom Tool/Item Class, and Gun Subclass:
+https://www.youtube.com/watch?v=VKoDg7uWkdA
 
 
 ### Building System:
