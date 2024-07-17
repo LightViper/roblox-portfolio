@@ -31,8 +31,6 @@ I primarily use Discord to communicate, and I use my microphone. However I'm ope
   - Polymorphism 
   - Composition
   - Functional programming, etc.
-
-I also know Knit, and other Frameworks.
   
 ### Reverse Engineering
 
