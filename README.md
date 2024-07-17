@@ -60,11 +60,9 @@ youtube link here:
 ### "HoverPrompt" Class:
 youtube link here:
 
-### Custom Tool Class:
+### Custom Tool/Item Class, and Gun Subclass, also HoverPrompt Class:
 Youtube link here:
 
-### Custom Inventory:
-Youtube link here
 
 ### Building System:
 Youtube link here
