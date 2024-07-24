@@ -26,36 +26,30 @@ I primarily use Discord to communicate, and I use my microphone. However I'm ope
 
   - OOP
   - Abstraction 
-  - Encapsulation 
   - Inheritance 
-  - Polymorphism 
   - Composition
   - Functional programming, etc.
-  
-### Reverse Engineering
 
-I'm currently learning reverse engineering with IDA Pro, OllyDBG, x64/32dbg, and other reverse engineering tools. 
-
-### Programming Paradigm
-
-I prefer using the OOP programming paradigm, with composition over inheritance.
+I prefer using OOP, with composition over inheritance.
 
 ### Optimisation
 
-Due to my experience with reverse engineering and low level languages, such as C++ and X86ASM. I know how computers work, and therefore how to write optimised code.
+Due to my vast experience with a variety of languages, from low level languages, to high level languages, I know how computers work, and therefore how to write optimised code.
 
 
 ## Other knowledge: -> I don't do any commissions for these, and I'm not an expert in any of these fields.
 
-I also know how to use blender to model, animate, and rig models.
+I know how to use blender to model, animate, and rig models.
 
-I also know aspects of game design.
+I know how to use FL studio and basic music theory.
+
+I know aspects of game design.
 
 ## My projects:
 I have worked on many projects such as:
 
-### Perlin Noise Algorithm for Procedural Generation.
-youtube link here:
+### Custom BindActionService:
+https://youtu.be/sF5jYl5Bg1U
 
 ### "HoverPrompt" Class:
 https://www.youtube.com/watch?v=oW_W3c6S8EE
