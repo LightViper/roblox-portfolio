@@ -48,15 +48,14 @@ I know aspects of game design.
 ## My projects:
 I have worked on many projects such as:
 
-### Custom BindActionService:
-https://youtu.be/sF5jYl5Bg1U
-
 ### "HoverPrompt" Class:
 https://www.youtube.com/watch?v=oW_W3c6S8EE
 
 ### Custom Tool/Item Class, and Gun Subclass:
 https://www.youtube.com/watch?v=VKoDg7uWkdA
 
+### Gun subclass with VFX:
+https://youtu.be/sF5jYl5Bg1U
 
 ### Building System:
 https://www.youtube.com/watch?v=jW4hlbI_p_8
