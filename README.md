@@ -21,29 +21,12 @@ I primarily use Discord to communicate, however I'm open to other platforms such
   - GDScript.
 
 
-### Programming Concepts
-  I'm familiar with these programming concepts:
-
-  - OOP
-  - Abstraction 
-  - Inheritance 
-  - Composition
-  - Functional programming, etc.
-
-I prefer using OOP, with composition over inheritance.
-
+  I'm also familiar with OOP, Composition and functional programming.
+  
 ### Optimisation
 
 Due to my vast experience with a variety of languages, from low level languages, to high level languages, I know how computers work, and therefore how to write optimised code.
 
-
-## Other knowledge: -> I don't do any commissions for these, and I'm not an expert in any of these fields.
-
-I know how to use blender to model, animate, and rig models.
-
-I know how to use FL studio and basic music theory.
-
-I know aspects of game design.
 
 ## My projects:
 I have worked on many projects such as:
