@@ -40,7 +40,4 @@ https://www.youtube.com/watch?v=VKoDg7uWkdA
 ### Gun subclass with VFX:
 https://youtu.be/sF5jYl5Bg1U
 
-### Building System:
-https://www.youtube.com/watch?v=jW4hlbI_p_8
-
 
