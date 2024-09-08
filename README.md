@@ -29,7 +29,7 @@ Due to my vast experience with a variety of languages, from low level languages,
 
 
 ## My projects:
-I have worked on many projects such as:
+I have worked on many SCRIPTING projects such as:
 
 ### Rootlands! (essentially Treelands rescripted)
 https://www.youtube.com/watch?v=L0AboCFjAH0
