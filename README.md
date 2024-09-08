@@ -31,13 +31,9 @@ Due to my vast experience with a variety of languages, from low level languages,
 ## My projects:
 I have worked on many projects such as:
 
-### "HoverPrompt" Class:
-https://www.youtube.com/watch?v=oW_W3c6S8EE
+### Rootlands! (essentially Treelands rescripted)
+https://www.youtube.com/watch?v=L0AboCFjAH0
 
-### Custom Tool/Item Class, and Gun Subclass:
-https://www.youtube.com/watch?v=VKoDg7uWkdA
-
-### Gun subclass with VFX:
-https://youtu.be/sF5jYl5Bg1U
-
+### Social's Plates (essentially Plates of Fate rescripted)
+yet to be uploaded
 
